@@ -20,7 +20,7 @@ namespace csharp_learning
         {
             var animal = CreateAnimal();
 
-            Assert.Equal("Dog1", animal.GetType().Name);
+            Assert.Equal("Dog", animal.GetType().Name);
         }
     }
 }
