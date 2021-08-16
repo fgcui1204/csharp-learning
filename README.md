@@ -1,5 +1,7 @@
 # csharp-learning
 
+[![CI](https://github.com/cuipengfei/csharp-learning/actions/workflows/run-tests.yml/badge.svg)](https://github.com/cuipengfei/csharp-learning/actions/workflows/run-tests.yml)
+
 Random groups:
 https://bit.ly/3COcYsi
 
